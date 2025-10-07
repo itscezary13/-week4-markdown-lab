@@ -22,3 +22,5 @@
 
 [Visit GitHub](https://github.com)
 
+## Partner's Contribution
+- Added my name and a new bullet point
